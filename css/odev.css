@@ -1,0 +1,25 @@
+body{ background-color:rgb(213, 245, 154);}
+   header {
+        color:red;
+    }
+    h1 {color:green;
+        text-align: center;
+
+    }
+    p {text-align: center;
+        color:rgb(120, 120, 33);
+        font-family: Arial, Helvetica, sans-serif;}
+    article { 
+        text-align: center;
+    }  
+    ul {
+        list-style-position:"inside";
+        text-align: center;
+    }
+    ol {
+        list-style-position:"inside";
+        text-align: center;
+    }
+    address{
+        text-align: center;
+    }
